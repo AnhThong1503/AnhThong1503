@@ -1,5 +1,8 @@
 ## 👋 Hello, I'm Truong Huynh Anh Thong!
 
+📅 **Date of Birth**: 15-03-1999  
+📍 **Location**: Ho Chi Minh City  
+
 💼 I'm a dedicated **Full-Stack Developer** with **1.5 years of experience** building high-quality web applications and delivering impactful solutions to complex problems.  
 🎓 Having graduated with a degree in **Information Technology** from **Hutech University**, I bring well-rounded expertise across both front-end and back-end development.  
 💻 My passion for technology drives me to continuously refine my skills and stay current with emerging trends, ensuring I deliver efficient, scalable solutions. 
@@ -31,6 +34,13 @@
 ## 📈 GitHub Stats
 
 ![Thong GitHub stats](https://github-readme-stats.vercel.app/api?username=AnhThong1503&show_icons=true&theme=radical)
+
+---
+
+## 💬 Random Dev Quotes
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> "Simplicity is the soul of efficiency." – Austin Freeman
+
 
 ---
 
